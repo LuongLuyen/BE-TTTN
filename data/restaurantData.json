@@ -1,0 +1,244 @@
+[
+  {
+    "id": 1,
+    "name": "Nhà Hàng Burger Hà Nội",
+    "rating": 4.8,
+    "categories": [5, 7],
+    "priceRating": "affordable",
+    "photo": "images.burger_restaurant_1",
+    "duration": "30 - 45 Phút",
+    "location": {
+      "latitude": 21.002,
+      "longitude": 105.8166
+    },
+    "courier": {
+      "avatar": "images.avatar_1",
+      "name": "Lan"
+    },
+    "menu": [
+      {
+        "menuId": 1,
+        "name": "Burger Gà Giòn",
+        "photo": "images.crispy_chicken_burger",
+        "description": "Burger với gà giòn, phô mai và rau xà lách",
+        "calories": 200,
+        "price": 10
+      },
+      {
+        "menuId": 2,
+        "name": "Burger Gà Sốt Mù Tạt Mật Ong",
+        "photo": "images.honey_mustard_chicken_burger",
+        "description": "Burger gà giòn với sốt mù tạt mật ong",
+        "calories": 250,
+        "price": 15
+      },
+      {
+        "menuId": 3,
+        "name": "Khoai Tây Chiên Giòn",
+        "photo": "images.baked_fries",
+        "description": "Khoai tây chiên giòn nướng",
+        "calories": 194,
+        "price": 8
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Pizza Hà Thành",
+    "rating": 4.8,
+    "categories": [2, 4, 6],
+    "priceRating": "expensive",
+    "photo": "images.pizza_restaurant",
+    "duration": "15 - 20 Phút",
+    "location": {
+      "latitude": 21.0152,
+      "longitude": 105.8522
+    },
+    "courier": {
+      "avatar": "images.avatar_2",
+      "name": "Minh"
+    },
+    "menu": [
+      {
+        "menuId": 4,
+        "name": "Pizza Dứa Thịt Hun Khói",
+        "photo": "images.hawaiian_pizza",
+        "description": "Thịt hun khói, đế bánh tự làm, sốt pizza",
+        "calories": 250,
+        "price": 15
+      },
+      {
+        "menuId": 5,
+        "name": "Pizza Cà Chua & Húng Quế",
+        "photo": "images.pizza",
+        "description": "Cà chua tươi, pesto húng quế và phô mai bocconcini",
+        "calories": 250,
+        "price": 20
+      },
+      {
+        "menuId": 6,
+        "name": "Mỳ Ý Sốt Cà Chua",
+        "photo": "images.tomato_pasta",
+        "description": "Mỳ Ý với sốt cà chua tươi",
+        "calories": 100,
+        "price": 10
+      },
+      {
+        "menuId": 7,
+        "name": "Salad Địa Trung Hải",
+        "photo": "images.salad",
+        "description": "Xà lách, cà chua, dưa chuột thái nhỏ",
+        "calories": 100,
+        "price": 10
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Hotdog Mỹ Đình",
+    "rating": 4.8,
+    "categories": [3],
+    "priceRating": "expensive",
+    "photo": "images.hot_dog_restaurant",
+    "duration": "20 - 25 Phút",
+    "location": {
+      "latitude": 21.0288,
+      "longitude": 105.7626
+    },
+    "courier": {
+      "avatar": "images.avatar_3",
+      "name": "Hùng"
+    },
+    "menu": [
+      {
+        "menuId": 8,
+        "name": "Hotdog Kiểu Chicago",
+        "photo": "images.chicago_hot_dog",
+        "description": "Cà chua tươi, xúc xích bò Mỹ",
+        "calories": 100,
+        "price": 20
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Sushi Hồ Tây",
+    "rating": 4.8,
+    "categories": [8],
+    "priceRating": "expensive",
+    "photo": "images.japanese_restaurant",
+    "duration": "10 - 15 Phút",
+    "location": {
+      "latitude": 21.0506,
+      "longitude": 105.818
+    },
+    "courier": {
+      "avatar": "images.avatar_4",
+      "name": "An"
+    },
+    "menu": [
+      {
+        "menuId": 9,
+        "name": "Set Sushi",
+        "photo": "images.sushi",
+        "description": "Cá hồi tươi, cơm sushi, bơ tươi",
+        "calories": 100,
+        "price": 50
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Mỳ Bách Khoa",
+    "rating": 4.8,
+    "categories": [1, 2],
+    "priceRating": "affordable",
+    "photo": "images.noodle_shop",
+    "duration": "15 - 20 Phút",
+    "location": {
+      "latitude": 21.0059,
+      "longitude": 105.8431
+    },
+    "courier": {
+      "avatar": "images.avatar_4",
+      "name": "Thảo"
+    },
+    "menu": [
+      {
+        "menuId": 10,
+        "name": "Mỳ Kolo",
+        "photo": "images.kolo_mee",
+        "description": "Mỳ với thịt xá xíu",
+        "calories": 200,
+        "price": 5
+      },
+      {
+        "menuId": 11,
+        "name": "Bún Laksa Sarawak",
+        "photo": "images.sarawak_laksa",
+        "description": "Bún với tôm nấu chín",
+        "calories": 300,
+        "price": 8
+      },
+      {
+        "menuId": 12,
+        "name": "Cơm Nasi Lemak",
+        "photo": "images.nasi_lemak",
+        "description": "Món cơm truyền thống của người Mã Lai",
+        "calories": 300,
+        "price": 8
+      },
+      {
+        "menuId": 13,
+        "name": "Cơm Nasi Briyani với Thịt Cừu",
+        "photo": "images.nasi_briyani_mutton",
+        "description": "Cơm Ấn Độ truyền thống với thịt cừu",
+        "calories": 300,
+        "price": 8
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Tráng Miệng Tràng Tiền",
+    "rating": 4.9,
+    "categories": [9, 10],
+    "priceRating": "affordable",
+    "photo": "images.kek_lapis_shop",
+    "duration": "35 - 40 Phút",
+    "location": {
+      "latitude": 21.0285,
+      "longitude": 105.8542
+    },
+    "courier": {
+      "avatar": "images.avatar_1",
+      "name": "Hà"
+    },
+    "menu": [
+      {
+        "menuId": 12,
+        "name": "Teh C Peng",
+        "photo": "images.teh_c_peng",
+        "description": "Trà ba lớp đặc trưng",
+        "calories": 100,
+        "price": 2
+      },
+      {
+        "menuId": 13,
+        "name": "Đá Bào Đậu Đỏ ABC",
+        "photo": "images.ice_kacang",
+        "description": "Đá bào với đậu đỏ và topping ngọt",
+        "calories": 100,
+        "price": 3
+      },
+      {
+        "menuId": 14,
+        "name": "Bánh Kek Lapis",
+        "photo": "images.kek_lapis",
+        "description": "Bánh nhiều lớp truyền thống",
+        "calories": 300,
+        "price": 20
+      }
+    ]
+  }
+]
